@@ -93,7 +93,7 @@ Ensures compliance and full system traceability.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/fintech-database-system.git
+   git clone https://github.com/MARWAN-SALAMA-HASSAN/fintech-database-system.git
    cd fintech-database-system
    ```
 
